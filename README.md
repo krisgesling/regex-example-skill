@@ -4,6 +4,8 @@ A quick regex examples for Skill developers
 ## About
 A very simple Skill showing how to use regex files with the Adapt intent parser.
 
+For more detail on the structure of Skills and different types of intents, see [Introduction to Developing Skills](https://mycroft.ai/documentation/skills/introduction-developing-skills/) in the Mycroft.ai documentation.
+
 ## Examples
 * "Apple is an example"
 * "An example is zebra"
