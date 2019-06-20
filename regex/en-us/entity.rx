@@ -1,0 +1,2 @@
+.*\bis (?P<entity>.*)
+\b(?P<entity>.*) is (a|an).*
